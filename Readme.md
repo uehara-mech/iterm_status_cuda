@@ -24,4 +24,4 @@ function iterm2_print_user_vars() {
 }
 ```
 
-After restarting iTerm2, you can choose the battery component in preferences: `Preferences > Profiles > Session > Status bar enabled > Configure Status Bar`.
+After restarting iTerm2, you can choose the cuda version component in preferences: `Preferences > Profiles > Session > Status bar enabled > Configure Status Bar`.
