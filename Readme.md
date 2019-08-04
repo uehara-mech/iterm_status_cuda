@@ -2,6 +2,9 @@
 
 A custom component to display CUDA Version information in the status bar of iTerm2
 
+
+![image](https://github.com/uehara-mech/iterm_status_cuda/blob/assets/assets/cuda_example.jpg)
+
 ## How to use
 ### Install Python Runtime
 You need to install Python Runtime at first.
